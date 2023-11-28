@@ -1,0 +1,31 @@
+body {
+  background-color: #1f1f1f; /* Fondo oscuro */
+  color: #fff; /* Texto en blanco */
+  font-family: Arial, sans-serif; /* Cambiar la fuente si lo deseas */
+}
+
+/* Estilos para el encabezado */
+h1 {
+  color: #e0e0e0; /* Color de texto para los títulos */
+}
+
+/* Estilos para los botones */
+button {
+  background-color: #4CAF50; /* Color de fondo del botón */
+  color: white; /* Color del texto del botón */
+  padding: 10px 20px; /* Espaciado interno del botón */
+  border: none; /* Sin borde */
+  cursor: pointer; /* Cursor al pasar sobre el botón */
+  border-radius: 5px; /* Bordes redondeados */
+  margin-bottom: 10px; /* Margen inferior */
+}
+
+/* Estilos para la lista de animales */
+ul {
+  list-style-type: none; /* Sin viñetas */
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px; /* Espacio entre elementos de la lista */
+}
